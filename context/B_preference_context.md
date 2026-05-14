@@ -22,9 +22,15 @@
 > bullets to shape what the curator ranks highly. These are positive
 > signals — they raise scores, not gates. Be concrete: "Hands-on
 > woodworking projects" beats "interesting stuff." Aim for 3–10 bullets.*
+- MLB game recaps and box scores
+- Baseball trade rumors and roster moves
+- Player stats, streaks, and performance analysis
+- Pitching matchups and bullpen news
+- Minor league prospects and call-ups
+- Historical baseball moments and anniversaries
+- Fantasy baseball rankings and waiver wire picks
+- Manager decisions, strategy, and in-game analytics
 
-- (replace this line with a topic you want ranked highly)
-- (add as many bullets as you like)
 
 ---
 
@@ -37,8 +43,9 @@
 > in `filtered_out[].rule`. The renderer applies a colored pill to
 > matching rule names. Examples or notes can go beneath each label.*
 
-- (replace this line with a single short rule label, e.g. `politics`)
-- (add more bullets, or remove this section entirely if you want no hard filters)
+- `education`
+- `homework`
+- `academics`)
 
 ---
 
@@ -50,7 +57,7 @@
 > Replace the prose to switch to a stricter mode (e.g. "include only
 > posts that match at least one bullet in §1").*
 
-Hard filters are the only grounds for exclusion. If a post doesn't hit a rule under "I do not want", it goes in — period. No carve-outs for "off-topic," "low-information," "thin reply," or "off my central interests." I'll scroll past anything I don't want to read. The curator's job ends at the hard filter line; any item that survives gets a rank and a reason, however low.
+Hard filters are the only grounds for exclusion. If a post doesn't hit a rule under "I do not want", it goes in — period. No carve-outs for "off-topic," "low-information," "thin reply," or "off my central interests." I'll scroll past anything I don't want to read. The curator's job ends at the hard filter line; any item that survives gets a rank and a reason, however low
 
 ---
 
@@ -58,10 +65,10 @@ Hard filters are the only grounds for exclusion. If a post doesn't hit a rule un
 
 > *List your tiebreakers. When two posts score similarly, the order below
 > decides. Edit and reorder freely.*
-
-1. (your top tiebreaker — e.g. "Hands-on > theoretical")
-2. (next tiebreaker)
-3. (and so on)
+1. Breaking news and same-day game results over older content
+2. MLB over minor leagues over international leagues
+3. Stat-backed analysis over opinion pieces
+4. Specific players/teams over general commentary
 
 ---
 
